@@ -1,6 +1,6 @@
 <?php
 
-namespace Cherry\Jobs\Helpers;
+namespace Cherry\Jobs\Helper;
 
 use Exception;
 use Carbon\Carbon;
